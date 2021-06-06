@@ -1,0 +1,16 @@
+.menulist{
+    text-decoration: none !important;
+    color:black
+}
+.btn-right{
+    float: right;
+}
+.fileds{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;  
+    margin-top: 20px;
+    border-radius: 5px;
+    border:1px solid #797D7F;
+    
+}

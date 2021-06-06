@@ -1,0 +1,82 @@
+.fileds{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;  
+    margin-top: 20px;
+    border-radius: 5px;
+    border:1px solid #797D7F;
+    
+}
+.edit-cover{
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+}
+.labels-all{
+    float:left;
+    margin-left: 20px;
+    margin-bottom: -12px;
+    font-weight: bold;
+}
+.labels-password{
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: -12px;
+    font-weight: bold;
+}
+.btn{
+    margin-top: 10px;
+    background: none;
+    border:none;
+    background: #5DADE2;
+    width: 308px;
+    height: 35px;
+    color:#fff;
+    border-radius: 5px;
+    font-family: 'Cairo', sans-serif;
+}
+.btn-close{
+    margin-top: 10px;
+    background: none;
+    border:none;
+    background: #E74C3C;
+    width: 308px;
+    height: 35px;
+    color:#fff;
+    border-radius: 5px;
+    font-family: 'Cairo', sans-serif;
+}
+.edit-cover h3{
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 20px;
+}
+.icon-move{
+    margin-right: -20px;
+}
+::placeholder {
+    font-size: 2em;
+    font-family: 'Cairo', sans-serif !important;
+    padding: 5px;
+}
+.edit-cover input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-family: 'Cairo', sans-serif;
+    opacity: 1; /* Firefox */
+    font-size: 13px;
+}
+.add-btn{
+    float: right;
+    background:none;
+    border:none;
+    color:black;
+    border-radius: 5px;
+    /* padding:10px 10px; */
+    width: 100px;
+    height: 35px;
+   margin-bottom:10px;
+   background: #F4D03F;
+   cursor: pointer;
+}
+.add-icon{
+    margin-top: 5px;
+    padding-top: 5px;
+}
